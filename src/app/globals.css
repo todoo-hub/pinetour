@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.watched{
+    color: black;
+    display: flex;
+    gap: 50px;
+}
+
+.id{}
